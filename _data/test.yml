@@ -1,0 +1,8 @@
+- layout: left
+  name: test
+  link: github.com/sproogen
+  github: test
+  quote: >
+    test
+  description: | # this will include new lines to allow paragraphs
+    test content
