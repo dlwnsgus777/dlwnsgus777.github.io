@@ -30,12 +30,19 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects
+projects_content: |
+ 테스트 중입니다.
 
 # Experience Section
 # experience_title: Experience
 
 # Education Section
 # educaton_title: Education
+
+# test Section
+# test_title: test
+test_content: |
+  test_content
 
 # More Section
 # more_title: A Little More About Me
