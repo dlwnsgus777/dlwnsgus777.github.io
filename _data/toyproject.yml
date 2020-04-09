@@ -1,6 +1,7 @@
 - layout: top-middle
   name: HierarchicalBoard
-  github: dlwnsgus777/HierarchicalBoard
+  link: https://github.com/dlwnsgus777/HierarchicalBoard
+  # github: dlwnsgus777/HierarchicalBoard
   quote: >
     계층형 게시판입니다.
   description: | # this will include new lines to allow paragraphs
@@ -12,7 +13,8 @@
 
 - layout: top-middle
   name: Study Gram
-  github: dlwnsgus777/studyGram
+  link: https://github.com/dlwnsgus777/studyGram
+  # github: dlwnsgus777/studyGram
   quote: >
     대학교 졸업 작품
   description: | # this will include new lines to allow paragraphs
