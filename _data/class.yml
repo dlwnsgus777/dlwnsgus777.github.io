@@ -1,0 +1,57 @@
+- layout: left
+  company:  블록체인 스타트업 현업 개발자와 함께 하는 SW개발 실무
+  qualification: 코멘토
+  dates: 2019. 07 ~ 2019. 08
+  quote: >
+    Node, Vue 를 사용한 간단한 채팅프로그램 제작
+  description: | # this will include new lines to allow paragraphs
+    - 과제를 수행하고 피드백을 받는 식의 멘토링
+    - 주입식 교육이 아닌 스스로 주어진 과제를 처음부터 해결하는 방법으로 진행해 공부하는 방법에 대한 깊은 생각을 하는 계기가 됨
+    - <mark>Node</mark> <mark>vue</mark> 사용
+    
+    
+- layout: left
+  company:  한큐에 자바 Step2
+  dates: 2018. 11 ~ 2019. 04
+  qualification: 한큐에 자바
+  quote: >
+    eGov(전자정부) 프레임워크를 이용한 웹페이지 제작 교육
+  description: | # this will include new lines to allow paragraphs
+    - Java 독학에 대한 한계를 느끼고 수강
+    - 매주 과제 진행
+    - 웹페이지 제작에 대한 전반적인 흐름, 기초적인 쿼리를 배움
+    - <mark>eGov Framwork</mark> <mark>JQuery</mark> <mark>MariaDB</mark> <mark>mybatis</mark> <mark>ajax</mark>  사용
+    
+- layout: left
+  company:  한큐에 자바 Step1
+  dates: 2018. 10 ~ 2018. 11
+  qualification: 한큐에 자바
+  quote: >
+    Java 기초 교육 
+  description: | # this will include new lines to allow paragraphs
+    - Java 독학에 대한 한계를 느끼고 수강
+    - 자바 기초 문법에 대한 교육
+    - <mark>Java</mark> 사용
+
+- layout: left
+  company:  웹퍼블리셔 - UI/UX 웹디자인(웹표준,html,css)
+  qualification: 그린컴퓨터아카데미
+  dates: 2017. 11 ~ 2018. 01
+  quote: >
+   html, css 에 대한 교육 (평일반)
+  description: | # this will include new lines to allow paragraphs
+    - 산업체 복무 중 재직자 교육카드를 발급받아 수강.
+    - <mark>html</mark> <mark>css</mark> 사용
+
+- layout: left
+  company:  응용SW엔지니어링향상과정(C언어) 
+  dates: 2017. 09 ~ 2017. 11
+  qualification: 그린컴퓨터아카데미
+  quote: >
+    c언어 기초 문법에 대한 교육
+  description: | # this will include new lines to allow paragraphs
+    - 산업체 복무 중 재직자 교육카드를 발급받아 수강.
+    - <mark>c언어</mark> 사용
+ 
+
+  

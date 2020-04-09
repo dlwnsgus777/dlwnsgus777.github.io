@@ -23,9 +23,17 @@ linkedin_username: 준현-이-043767168
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. 
+  나이 : 28 세 (1993년 생) 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  최종 학력 : 전문대졸 (안산대학교)
+
+  사는 곳 : 인천광역시
+
+  병역사항 : 이등병 소집해제 (2015.12 ~ 2018.02) - 산업체 복무 (생산직)
+
+  사용 기술 : <mark>Java</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>Node</mark> <mark>Vue</mark>
+
+
 
 # Projects Section
 # projects_title: Projects
@@ -52,6 +60,8 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
+livereload: true
+
 remote_theme: sproogen/resume-theme
 
 sass:

@@ -1,0 +1,6 @@
+<div class="container education-container">
+  <h3>{{ site.class_title | default: "Class" }}</h3>
+  {% for class in site.data.class %}
+    {% include {{ class.layout | default: 'left' | append: ".html" }} item=class %}
+  {% endfor %}
+</div>

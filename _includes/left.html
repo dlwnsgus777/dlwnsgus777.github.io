@@ -5,6 +5,13 @@
     {%- if include.item.link -%}
       {% include a.html href=include.item.link class="link" %}{{ include.item.link }}</a>
     {%- endif -%}
+
+    {%- if include.item.image -%}
+    <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+      <span class="profile-img" style="background-image: url({{ include.item.image | relative_url }})"></span>
+    </div>
+    {%- endif -%}
+
     {%- if include.item.job_title -%}<p><b>{{ include.item.job_title }}</b></p>{%- endif -%}
     {%- if include.item.qualification -%}<p><b>{{ include.item.qualification }}</b></p>{%- endif -%}
     {%- if include.item.dates -%}<p>{{ include.item.dates }}</p>{%- endif -%}

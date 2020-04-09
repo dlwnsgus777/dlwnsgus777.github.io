@@ -1,0 +1,22 @@
+- layout: top-middle
+  name: HierarchicalBoard
+  github: dlwnsgus777/HierarchicalBoard
+  quote: >
+    계층형 게시판입니다.
+  description: | # this will include new lines to allow paragraphs
+    - 사용기술 :  <mark>Spring Boot</mark> <mark>JPA</mark> <mark>MySql</mark> <mark>JQuery</mark>
+    - Mysql의 재귀쿼리를 이용해 계층형 게시판 개발
+    - 이미지 업로드 기능
+    - Spring Security 적용, Thyemleaf 템플릿 사용
+    - 참여 인원 : 개인
+
+- layout: top-middle
+  name: Study Gram
+  github: dlwnsgus777/studyGram
+  quote: >
+    대학교 졸업 작품
+  description: | # this will include new lines to allow paragraphs
+    - 사용기술 :  <mark>Node</mark> <mark>Vue</mark> <mark>MySql</mark> <mark>Sequelize</mark>
+    - Node, Vue를 이용한 SNS 개발
+    - Vuetify, vuex, nuxt, express 사용
+    - 참여 인원 : 개인
