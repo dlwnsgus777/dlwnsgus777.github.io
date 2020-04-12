@@ -3,6 +3,12 @@
 #   quote: >
 #     관심있는 기술분야
 #   description: | # this will include new lines to allow paragraphs
+#     가장 관심있는 분야는 서버 개발입니다. 아무리 좋은 서비스라도 탄탄한 서버가 뒷받침되어야 한다고 생각하기 때문입니다.
+#     서버 개발자가 되기 위해 다양한 교육을 수료했고, 스스로 공부를 하고있습니다.
+#     서버 개발에 대한 경험은 Node, vue를 이용해 SNS를 개발하는 졸업작품을 만들었고, 최근엔 회사 재직 중에 토이 프로젝트로 Spring Boot를 이용한 계층형 게시판을 개발했습니다.
+#     단순히 기능만 되는 코드에서 멈추지 않고, 구조적으로 결함이 없는 코드를 작성하기 위해 노력하고 있습니다. 그렇기때문에 최근 객체지향에 대해 공부를 하고있습니다.
+#
+#     또한 리눅스 환경에서 Kubernetes를 이용해 클러스터를 구성한 경험이 있습니다.
 #     자바를 활용한 백엔드, 서비스를 개발하고 싶다 정도?
 #
 #
@@ -14,6 +20,7 @@
 #   quote: >
 #     활동사항? 개발자로써 내가 가지고 있는것?
 #   description: | # this will include new lines to allow paragraphs
+#
 #     그간의 교육, 1일1커밋, 이것저것 등등?
 #
 #
@@ -29,3 +36,23 @@
 #
 #
 
+# - layout: right
+#   image: images/git.jpg
+#   quote: >
+#     개발자로써의 목표
+#   description: | # this will include new lines to allow paragraphs
+#
+#     그간의 교육, 1일1커밋, 이것저것 등등?
+#
+#
+#
+
+# - layout: right
+#   image: images/git.jpg
+#   quote: >
+#     업무에서 자신의 가치관
+#   description: | # this will include new lines to allow paragraphs
+#     서비스를 개발하며 경험을 얻고 멋진서비스를 개발한다라는 느낌?
+#
+#
+#
