@@ -29,14 +29,13 @@ about_content: | # this will include new lines to allow paragraphs
 
   사는 곳 : 인천광역시
 
+  연락처 : 010 - 3219 - 0466
+
   병역사항 : 이등병 소집해제 (2015.12 ~ 2018.02) - 산업체 복무 (생산직)
 
   사용 기술 : <mark>Java</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>Node</mark> <mark>Vue</mark>
 
   <mark>Java</mark> 를 이용한 Back-end 개발자를 목표로 하고있습니다.
-
-  
-
 
 # Projects Section
 # projects_title: Projects
@@ -53,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: 그 밖에 활동
 more_content: | # this will include new lines to allow paragraphs
-  - [개인 블로그](https://pro-dev.tistory.com/) 
+  - [개인 블로그](https://pro-dev.tistory.com/)
 
 # Footer
 footer_show_references: true
