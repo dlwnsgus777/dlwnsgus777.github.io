@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: 이준현 (Lee Jun Hyun)
-title: Junior Back-End Developer
+title: Back-End Developer
 email: dlwnsgus777@naver.com
 website: https://pro-dev.tistory.com/
 
@@ -23,7 +23,7 @@ linkedin_username: 준현-이-043767168
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  나이 : 28 세 (1993년 생) 
+  나이 : 30 세 (1993년 생) 
 
   최종 학력 : 전문대졸 (안산대학교)
 
@@ -32,9 +32,15 @@ about_content: | # this will include new lines to allow paragraphs
 
   병역사항 : 이등병 소집해제 (2015.12 ~ 2018.02) - 산업체 복무 (생산직)
 
-  사용 기술 : <mark>Java</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>Node</mark> <mark>Vue</mark>
+  사용 기술 : <mark>Java</mark> <mark>Spring</mark> <mark>JavaScript</mark> <mark>Node</mark>
 
-  <mark>Back-end</mark> 개발자를 목표로 하고있습니다.
+  <mark>Back-end</mark> 개발 업무를 하고 있습니다.
+
+  유지 보수하기 쉽고, 지속적으로 성장 가능한 소프트웨어에 관심이 많습니다. 때문에 테스트 코드 작성을 중요하게 생각하고 있으며 
+  현재 새로운 프로젝트 진행시 테스트 코드 작성을 병행하며 개발하고 있습니다.
+
+
+
 
 #연락처 : 010 - 3219 - 0466
 

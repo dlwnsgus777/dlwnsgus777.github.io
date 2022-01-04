@@ -1,5 +1,5 @@
-- layout: left
-  company: 엔에이치에스
+- layout: top-middle
+  company: 기능 개발
   job_title: <mark>Java</mark> <mark>Spring</mark> 백엔드 개발자 / 팀원
   dates: 2021.05.10 ~ 재직 중
   quote: >

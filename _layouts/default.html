@@ -17,24 +17,33 @@
 
       {%- include about.html -%}
 
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
-      {%- endif -%}
-
-      {%- if site.data.toyproject.size > 0 -%}
-        {%- include toyprojects.html -%}
-      {%- endif -%}
-
       {%- if site.data.experience.size > 0 -%}
         {%- include experience.html -%}
       {%- endif -%}
 
-      {%- if site.data.class.size > 0 -%}
-        {%- include class.html -%}
+      {%- if site.data.skill.size > 0 -%}         
+        {%- include skill.html -%}              
+      {%- endif -%}       
+
+      {%- if site.data.ability.size > 0 -%}         
+        {%- include ability.html -%}              
+      {%- endif -%}                                       
+                                
+
+      {%- if site.data.education.size > 0 -%}         
+        {%- include education.html -%}              
       {%- endif -%}
 
-      {%- if site.data.education.size > 0 -%}
-        {%- include education.html -%}
+      <!-- {%- if site.data.projects.size > 0 -%}
+        {%- include projects.html -%}
+      {%- endif -%} -->
+
+      <!-- {%- if site.data.toyproject.size > 0 -%}
+        {%- include toyprojects.html -%}
+      {%- endif -%} -->
+
+      {%- if site.data.class.size > 0 -%}
+        {%- include class.html -%}
       {%- endif -%}
  
       {%- if site.data.introduce.size > 0 -%}

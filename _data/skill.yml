@@ -1,0 +1,25 @@
+- layout: left
+  name: Backend
+  description: | # this will include new lines to allow paragraphs
+#    * Java, Groovy, NodeJS (TypeScript),
+#    * NestJS, Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud AWS
+#    * TypeORM, JPA, Querydsl, Hibernate
+#    * Jest, Supertest, Junit4/5, Mockito, Spock
+#    * Gradle, Maven
+#    * IntelliJ, WebStorm, Visual Studio Code
+- layout: left
+  name: DevOps
+  description: | # this will include new lines to allow paragraphs
+#    * MySQL, MariaDB, PostgreSQL
+#    * Jenkins, TravisCI, AWS Code Deploy
+#    * AWS Beanstalk, AWS SQS, Elastic Cache (Redis), RDS (Aurora), S3, EC2, Cloud Watch
+#    * Nginx, Tomcat
+#    * Pinpoint, Ngrinder
+#    * Linux Centos
+- layout: left
+  name: Frontend
+  description: | # this will include new lines to allow paragraphs
+#    * ES6
+#    * Npm, Grunt, Webpack
+#    * Handlebars, Lodash
+#    * Backbone

@@ -1,0 +1,6 @@
+<div class="container experience-container">
+  <h3>{{ site.ability_title | default: "Ability" }}</h3>
+  {% for ability in site.data.ability %}
+    {% include {{ ability.layout | default: 'left' | append: ".html" }} item=ability %}
+  {% endfor %}
+</div>
