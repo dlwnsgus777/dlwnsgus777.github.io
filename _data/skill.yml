@@ -1,9 +1,9 @@
 - layout: left
   name: Backend
   description: | # this will include new lines to allow paragraphs
-     * <h4>Java,  JavaScript</h4> 
-     * <h4>Spring,  Spring MVC, Spring Security, Spring WebFlux</h4> 
-     * <h4>Node,  Express, Fastify</h4> 
+     * Java,  JavaScript
+     * Spring,  Spring MVC, Spring Security, Spring WebFlux
+     * Node,  Express, Fastify
 #    * NestJS, Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud AWS
 #    * TypeORM, JPA, Querydsl, Hibernate
 #    * Jest, Supertest, Junit4/5, Mockito, Spock
@@ -12,9 +12,9 @@
 - layout: left
   name: DevOps
   description: | # this will include new lines to allow paragraphs
-    * <h4>Java,  JavaScript</h4> 
-    * <h4>Spring,  Spring MVC, Spring Security, Spring WebFlux</h4> 
-    * <h4>Node,  Express, Fastify</h4> 
+    * MYSQL,  JavaScript
+    * Spring,  Spring MVC, Spring Security, Spring WebFlux
+    * Linux
 #    * MySQL, MariaDB, PostgreSQL
 #    * Jenkins, TravisCI, AWS Code Deploy
 #    * AWS Beanstalk, AWS SQS, Elastic Cache (Redis), RDS (Aurora), S3, EC2, Cloud Watch
@@ -24,8 +24,8 @@
 - layout: left
   name: Frontend
   description: | # this will include new lines to allow paragraphs
-     * <h4>JavaScript</h4> 
-     * <h4>Vue,  HTML, CSS</h4> 
+     * JavaScript
+     * Vue,  HTML, CSS
 #    * ES6
 #    * Npm, Grunt, Webpack
 #    * Handlebars, Lodash
