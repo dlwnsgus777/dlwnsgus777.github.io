@@ -6,9 +6,12 @@
 
   description: | # this will include new lines to allow paragraphs
     - 모두의 노래방 백엔드 개발
-    - <mark>Node.js</mark> 기반 기존 레거시 서버 기능 개발
-    - <mark>Spring</mark> 기반 마이그레이션 서버 기능 개발
+    - <mark>Node.js</mark> <mark>Fastify</mark> 기반 기존 레거시 서버 API 개발
+      - 
+    - <mark>Spring</mark> 기반 마이그레이션 서버 API 개발
+      -
     - <mark>Vue</mark> 관리자 페이지 개발 
+      -
 
 - layout: left
   company: 앤트라인소프트
@@ -19,4 +22,7 @@
   description: | # this will include new lines to allow paragraphs
     - 현대에서 사용하는 Log Management System 개발 프로젝트 참여 
     - <mark>Node.js</mark> <mark>Vue.js</mark> 를 사용한 사용자 대시보드 개발
+        - 
+    - <mark>Node.js</mark> <mark>Expess</mark> 를 사용한 사용자 대시보드 API 개발
+        - 
     - <mark>ApexChart.js</mark> 를 사용한 각종 그래프 개발
