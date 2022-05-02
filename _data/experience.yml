@@ -6,23 +6,32 @@
 
   description: | # this will include new lines to allow paragraphs
     - 모두의 노래방 백엔드 개발
-    - <mark>Spring</mark> 기반 서버 API 개발
+
+    - <mark>Spring</mark> <mark>Web Flux</mark> <mark>Data-Jdbc</mark> 기반 서버 API 개발
       - 유저 포스팅 기능 개발
       - 유저 팔로우, 팔로잉 기능 개발
       - 실시간 검색어 기능 개발
       - 기프티콘 API 연동 
-      - 라이브룸 관제 기능 개발
-    - <mark>Node.js</mark> <mark>Fastify</mark> 기반 기존 레거시 서버 API 개발
+      - 댓글, 포스팅 태그 기능 개발
+      - <mark>Influx DB</mark>를 이용한 라이브룸 관제 기능 개발
+      - 신규 개발 MSA 서비스 <mark>Junit</mark> 을 사용한 테스트 코드 작성(Test Coverage 80%)
+
+    - <mark>Node.js</mark> <mark>Fastify</mark> <mark>Sequelize</mark> 기반 기존 레거시 서버 API 개발
       - 유저 차단, 신고 기능 개발
       - 노래 썸네일 수정 기능 개발
       - 공지사항 crud 기능 개발
       - 배경화면 crud 기능 개발
       - 유저 관리 기능 개발
+      - <mark>Socket.io</mark> 를 사용한 소켓 기능 개발
+        - 유저 채팅 기능 개발
+        - 노래 퀴즈 기능 개발
+
     - <mark>Vue</mark> <mark>Nuxt.js</mark> 를 사용한 관리자 페이지 개발
+    - <mark>GitLab</mark> <mark>K8s</mark> <mark>Helm</mark> 을 사용한 CI/CD 환경 경험
 
 - layout: left
   company: 앤트라인소프트
-  job_title: <mark>Node.js</mark> 개발자 / 팀원
+  job_title: DevOps 개발자 / 팀원
   dates: 2019.10.07 ~ 2021.04.26
   quote: >
 
@@ -34,3 +43,4 @@
         - 그래프 위젯 관리 기능 개발
     - <mark>Node.js</mark> <mark>Expess</mark> 를 사용한 사용자 대시보드 API 개발
         - ELK 스택 기반의 각종 LOG를 불러오는 API 개발
+    - <mark>K8s</mark> <mark>Docker</mark> <mark>Elastic Stack</mark> 을 이용한 모니터링 환경 개발 경험
