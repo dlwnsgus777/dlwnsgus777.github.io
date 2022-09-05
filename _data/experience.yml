@@ -14,6 +14,7 @@
       - 기프티콘 API 연동 
       - 댓글, 포스팅 태그 기능 개발
       - <mark>Influx DB</mark>를 이용한 라이브룸 관제 기능 개발
+      - <mark>Kafka</mark> 컨슈머 개발 및 <mark>FCM</mark> 연동
       - 신규 개발 MSA 서비스 <mark>Junit</mark> 을 사용한 테스트 코드 작성(Test Coverage 80%)
 
     - <mark>Node.js</mark> <mark>Fastify</mark> <mark>Sequelize</mark> 기반 기존 레거시 서버 API 개발
